@@ -29,7 +29,7 @@ Git
 
 ## Setting up the Project
 
-#### Backend/API Setup
+#Backend/API Setup
 
 ## Clone the Repository
 ```
@@ -37,35 +37,35 @@ git clone https://github.com/chrishiggins54/star-wars-app-backend
 ```
 
 # Backend Setup
-# Navigate to the backend project directory.
+## Navigate to the backend project directory.
 ```
 cd StarWarsApp\star-wars-app-backend
 ```
 
-# Restore the .NET packages:
+## Restore the .NET packages:
 ```
 dotnet restore
 ```
 
-# Start the backend API using:
+## Start the backend API using:
 ```
 dotnet run
 ```
-## Frontend Setup
-# Navigate to the frontend project directory e.g:
+# Frontend Setup
+## Navigate to the frontend project directory e.g:
 ```
 cd D:\Projects\StarWarsApp\star-wars-app-frontend
 ```
-# Install npm packages:
+## Install npm packages:
 ```
 npm install
 ```
 
-# Start the Vue.js development server:
+## Start the Vue.js development server:
 ```
 npm run serve
 ```
-# Environment Configuration
+## Environment Configuration
 Configure the .env file in the frontend project to point to the correct backend URL. The .env file should contain:
 
 ```
@@ -73,5 +73,5 @@ VUE_APP_API_URL=http://localhost:5287
 ```
 Replace the URL/port as necessary. This file allows easy management of environment-specific variables.
 
-# API Testing with Swagger
+## API Testing with Swagger
 Swagger is integrated for backend API testing. Access Swagger UI at https://localhost:44395/swagger.
