@@ -11,7 +11,7 @@
         <h3>{{ character.name }}</h3>
         <p><strong>Birth Year:</strong> {{ character.birth_year }}</p>
         <p><strong>Height:</strong> {{ character.height }}cm</p>
-        <p><strong>Weight:</strong> {{ character.mass }}</p>
+        <p><strong>Weight:</strong> {{ character.mass }}kg</p>
       </div>
     </div>
 
