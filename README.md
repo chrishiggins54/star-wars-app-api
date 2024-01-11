@@ -1,37 +1,37 @@
 
-### Star Wars Character Explorer
+# Star Wars Character Explorer
 
-# Introduction
+## Introduction
 Welcome to the Star Wars Character Explorer, a web application that connects to the Star Wars API (SWAPI). This project represents my initial exploration of .NET Core and Vue.js, combining these technologies to create an engaging user experience.
 
-# Project Overview
+## Project Overview
 Developed as part of a technical assessment for a .NET Developer role, this application demonstrates my skills in .NET 6, C#, Vue.js, and API integration.
 
-# Features
+## Features
 
 List of Characters: Displays characters from the Star Wars universe.
 Character Search: Users can search for characters by name.
 Character Details: Detailed information about selected characters is shown.
 
-# Technology Stack
+## Technology Stack
 
 Backend: .NET 6 (or newer) Web API
 Frontend: Vue.js
 API: SWAPI - SWAPI Documentation
 Additional Tools: Swagger for API testing
 
-# Prerequisites
+## Prerequisites
 
 .NET 5 SDK or later
 Node.js and npm
 Vue CLI
 Git
 
-### Setting up the Project
+## Setting up the Project
 
-## Backend/API Setup
+#### Backend/API Setup
 
-# Clone the Repository
+## Clone the Repository
 ```
 git clone https://github.com/chrishiggins54/star-wars-app-backend
 ```
