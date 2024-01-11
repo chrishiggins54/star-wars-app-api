@@ -28,6 +28,7 @@ Vue CLI
 Git
 
 ### Setting up the Project
+
 ## Backend/API Setup
 
 # Clone the Repository
@@ -37,7 +38,9 @@ git clone https://github.com/chrishiggins54/star-wars-app-backend
 
 # Backend Setup
 # Navigate to the backend project directory.
-cd star-wars-app-backend
+```
+cd StarWarsApp\star-wars-app-backend
+```
 
 # Restore the .NET packages:
 ```
